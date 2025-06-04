@@ -9,5 +9,5 @@ WHERE
 	FROM 
 		products
 	WHERE
-		ProductName = "%Squaquatch Ale%"
+		ProductName = 'Sasquatch Ale'
     )
