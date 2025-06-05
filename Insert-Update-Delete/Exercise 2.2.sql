@@ -1,0 +1,2 @@
+INSERT INTO products(ProductID,ProductName,SupplierID,CategoryID,QuantityPerUnit,UnitPrice,UnitsInStock,UnitsOnOrder,ReorderLevel,Discontinued)
+VALUES(78, 'Organic Apple Juice', 30, 1, '12 bottles x 1 liter', 19.99, 50, 10, 20, 0)
